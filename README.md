@@ -1,3 +1,6 @@
+### Desenho da Arquitetura 
+![alt text](image.png)
+
 ### Passo a Passo da Solução
 
 1. **Distribuição de Tickets e Redirecionamento para Fila de Espera**
